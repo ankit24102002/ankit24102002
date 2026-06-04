@@ -100,15 +100,7 @@ Email    : ankitsingla34804@gmail.com
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit24102002&theme=tokyonight&hide_border=true&background=06080f&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankit24102002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://streak-stats.demolab.com/?user=ankit24102002&theme=tokyonight&hide_border=true&background=06080f&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&dates=c9d1d9" />
 </div>
 
 ---
@@ -116,7 +108,11 @@ Email    : ankitsingla34804@gmail.com
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ankit24102002/ankit24102002/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankit24102002/ankit24102002/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankit24102002/ankit24102002/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/ankit24102002/ankit24102002/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
