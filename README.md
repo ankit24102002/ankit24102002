@@ -95,12 +95,13 @@ Email    : ankitsingla34804@gmail.com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankit24102002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=06080f&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit24102002&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=06080f&title_color=00d4ff&text_color=c9d1d9" />
+  <img src="https://streak-stats.demolab.com/?user=ankit24102002&theme=tokyonight&hide_border=true&background=06080f&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&dates=c9d1d9" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ankit24102002&theme=tokyonight&hide_border=true&background=06080f&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&dates=c9d1d9" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankit24102002&theme=tokyo-night&bg_color=06080f&color=00d4ff&line=7c3aed&point=f59e0b&area=true&hide_border=true" />
 </div>
 
 ---
